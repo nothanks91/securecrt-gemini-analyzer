@@ -30,12 +30,7 @@ Step 1: Get Your Gemini API Key
 
 Step 2: Save and Configure the Script File
 
-    Copy the entire Python script code you have.
-
-    Open a plain text editor (like Notepad, Notepad++, or VS Code).
-
-    Paste the code into the editor and save the file as gemini_analyzer.py.
-        A good place to save your scripts is in your computer's Documents folder, inside a SecureCRT\Scripts directory (e.g., C:\Users\YourName\Documents\SecureCRT\Scripts).
+    Download gemini_analyzer.py file.
 
     Crucially, you must add your API key to the script:
         Open the gemini_analyzer.py file you just saved.
